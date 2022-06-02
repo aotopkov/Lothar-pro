@@ -1,0 +1,17 @@
+.logo {
+    height: 64px;
+    font-weight: 900;
+    font-size: 30px;
+    font-style: italic;
+    line-height: 41px;
+
+    display: flex;
+    align-items: center;
+
+    background: linear-gradient(183.01deg, #3FE9F5 29.25%, #8224FA 67.86%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    text-shadow: 0px 0px 4px rgba(130, 36, 250, 0.36);
+}

@@ -1,0 +1,6 @@
+.instruction__fishka {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    transform: scale(1.3);
+}

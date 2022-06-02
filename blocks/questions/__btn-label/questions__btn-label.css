@@ -1,0 +1,10 @@
+.questions__btn-label {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 15px;
+    right: 5px;
+    background-image: url(../../../images/questions__btn.svg);
+    background-repeat: no-repeat;
+    transition: all .3s;
+}

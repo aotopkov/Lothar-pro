@@ -1,0 +1,8 @@
+.capabilities__list {
+    padding: 0;
+    margin: 68px auto 100px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 118px;
+    justify-content: center;
+}

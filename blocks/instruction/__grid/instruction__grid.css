@@ -1,0 +1,8 @@
+.instruction__grid {
+    margin: 65px auto 0;
+    padding-bottom: 69px;
+    display: grid;
+    grid-template-columns: 613px 436px;
+    column-gap: 61px;
+    justify-content: center;
+}

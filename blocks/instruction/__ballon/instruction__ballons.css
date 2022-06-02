@@ -1,0 +1,11 @@
+.instruction__ballons {
+    position: absolute;
+    background-image: url(../../../images/page__ballons.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 191px;
+    height: 401px;
+    top: -142px;
+    left: 1249px;
+
+}

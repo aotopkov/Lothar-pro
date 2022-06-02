@@ -1,0 +1,19 @@
+.questions__btn {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 15px;
+    right: 5px;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.questions__btn:checked + .questions__btn-label {
+    transform: rotate(45deg);
+}
+
+.questions__btn:checked ~ .questions__answer {
+    opacity: 1;
+    height: auto;
+}

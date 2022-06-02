@@ -1,0 +1,17 @@
+.header__title {
+    margin: 0;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+    color: #fff;
+    max-width: 733px;
+    margin-top: 98px;
+
+}
+
+.header__title > span {
+    background: linear-gradient(183.01deg, #3FE9F5 29.25%, #8224FA 67.86%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

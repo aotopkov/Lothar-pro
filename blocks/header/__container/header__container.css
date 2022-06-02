@@ -1,0 +1,7 @@
+.header__container {
+    box-sizing: border-box;
+    position: relative;
+    width: 1440px;
+    margin: auto;
+    padding-left: 165px;
+}

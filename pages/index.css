@@ -1,0 +1,69 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/page/__ballons/page__ballons.css);
+
+@import url(../blocks/section/__container/section__container.css);
+@import url(../blocks/section/__title/section__title.css);
+
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__footer/nav__footer.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__item/nav__item.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__main-img/header__main-img.css);
+@import url(../blocks/header/__fishka/header__fishka.css);
+@import url(../blocks/header/__fishka/_pos/_1/header__fishka_pos_1.css);
+@import url(../blocks/header/__fishka/_pos/_2/header__fishka_pos_2.css);
+@import url(../blocks/header/__fishka/_pos/_3/header__fishka_pos_3.css);
+@import url(../blocks/header/__fishka/_pos/_4/header__fishka_pos_4.css);
+
+@import url(../blocks/benefits/benefits.css);
+@import url(../blocks/benefits/__container/benefits__container.css);
+@import url(../blocks/benefits/__title/benefits__title.css);
+@import url(../blocks/benefits/__list/benefits__list.css);
+@import url(../blocks/benefits/__item/benefits__item.css);
+@import url(../blocks/benefits/__subtitle/benefits__subtitle.css);
+@import url(../blocks/benefits/__fishka/benefits__fishka.css);
+@import url(../blocks/benefits/__fishka/_pos/_1/benefits__fishka_pos_1.css);
+@import url(../blocks/benefits/__fishka/_pos/_2/benefits__fishka_pos_2.css);
+
+@import url(../blocks/capabilities/__container/capabilities__container.css);
+@import url(../blocks/capabilities/__title/capabilities__title.css);
+@import url(../blocks/capabilities/__list/capabilities__list.css);
+@import url(../blocks/capabilities/__item/capabilities__item.css);
+@import url(../blocks/capabilities/__subtitle/capabilities__subtitle.css);
+@import url(../blocks/capabilities/__img/capabilities__img.css);
+@import url(../blocks/capabilities/__img/_2/capabilities__img_2.css);
+@import url(../blocks/capabilities/__img/_3/capabilities__img_3.css);
+@import url(../blocks/capabilities/__fishka/capabilities__fishka.css);
+
+@import url(../blocks/instruction/instruction.css);
+@import url(../blocks/instruction/__title/instruction__title.css);
+@import url(../blocks/instruction/__grid/instruction__grid.css);
+@import url(../blocks/instruction/__video/instruction__video.css);
+@import url(../blocks/instruction/__info/instruction__info.css);
+@import url(../blocks/instruction/__button/instruction__button.css);
+@import url(../blocks/instruction/__fishka/instruction__fishka.css);
+@import url(../blocks/instruction/__fishka/_pos/_1/instruction__fishka_pos_1.css);
+@import url(../blocks/instruction/__fishka/_pos/_2/instruction__fishka_pos_2.css);
+@import url(../blocks/instruction/__ballon/instruction__ballons.css);
+
+@import url(../blocks/questions/__title/questions__title.css);
+@import url(../blocks/questions/__list/questions__list.css);
+@import url(../blocks/questions/__item/questions__item.css);
+@import url(../blocks/questions/__question/questions__question.css);
+@import url(../blocks/questions/__btn/questions__btn.css);
+@import url(../blocks/questions/__btn-label/questions__btn-label.css);
+@import url(../blocks/questions/__answer/questions__answer.css);
+@import url(../blocks/questions/__fishka/questions__fishka.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);

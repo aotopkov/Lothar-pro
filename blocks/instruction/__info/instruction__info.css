@@ -1,0 +1,19 @@
+.instruction__info {
+    color: #fff;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.instruction__info p {
+    margin: 0;
+}
+
+.instruction__info span {
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 74px;
+}

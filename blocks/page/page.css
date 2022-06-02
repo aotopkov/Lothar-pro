@@ -1,0 +1,9 @@
+.page {
+    background-color: #131313;
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+html {
+    scroll-behavior: smooth;
+}

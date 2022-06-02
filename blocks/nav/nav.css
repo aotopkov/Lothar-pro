@@ -1,0 +1,16 @@
+.nav {
+    margin: auto;
+    padding: 18px 0 16px;
+    display: flex;
+    align-items: center;
+    column-gap: 11px;
+}
+
+.nav__header {
+    column-gap: 65px;
+}
+
+.nav__footer {
+    padding-left: 165px;
+    column-gap: 144px;
+}

@@ -1,0 +1,14 @@
+.benefits__subtitle {
+    width: 90%;
+    margin: auto;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.benefits__subtitle > span {
+    color: #8224FA;
+}
