@@ -1,4 +1,7 @@
 .instruction__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: 0;
     padding: 0;
     margin: 0;
@@ -8,6 +11,8 @@
     line-height: 33px;
     color: #fff;
     text-transform: uppercase;
+    text-decoration: none;
+
 
     width: 280px;
     height: 70px;
