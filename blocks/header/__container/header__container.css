@@ -1,7 +1,7 @@
 .header__container {
     box-sizing: border-box;
     position: relative;
-    width: 1440px;
+    width: 1024px;
     margin: auto;
-    padding-left: 165px;
+    padding-left: 65px;
 }

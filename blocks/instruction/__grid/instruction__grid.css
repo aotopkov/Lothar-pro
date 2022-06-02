@@ -2,7 +2,7 @@
     margin: 65px auto 0;
     padding-bottom: 69px;
     display: grid;
-    grid-template-columns: 613px 436px;
-    column-gap: 61px;
+    grid-template-columns: 513px 336px;
+    column-gap: 30px;
     justify-content: center;
 }
